@@ -1,0 +1,1 @@
+UPDATE `employee_base_info` SET `employee_name` = 'Diego Escobar Fuste', `email` = 'diego.netsolutions@gmail.com' WHERE `employee_base_info`.`id` = 1
