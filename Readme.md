@@ -2,6 +2,12 @@
 
 ![Insly logo](https://i.imgur.com/0178v4J.png)
 
+## INDEX
+
+- [`Frontend solution`](https://github.com/DiegoAWS/insly#index)
+- [`API solution`](https://github.com/DiegoAWS/insly-api#index)
+- `SQL problem`
+
 ## Task 1 - Calculator
 
 Write a simple car insurance calculator which will output price of the policy using vanilla PHP and ReactJS or VueJS.
